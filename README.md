@@ -3,7 +3,7 @@
 
 
 
-## Burrows-Wheeler tranform & Hufffman compression
+## Burrows-Wheeler transform & Hufffman compression
 
 * This project aims to implement the Burrows-Wheeler transform algorithm and a Huffman compression.
   and perform them on a DNA sequence.
