@@ -34,7 +34,7 @@ sudo apt-get install python3-tk
 ### Launch the program
 
 * To launch the program please write the following command in your terminal 
-* To test the interface you can use the file present in the project name sequence_test.txt
+* To test the interface you can use the file present in the project named sequence_test.txt
 
 ```{}
 python3 main.py 
