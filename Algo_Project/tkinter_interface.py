@@ -101,8 +101,6 @@ def huffman_decompression():
     display_binseq = cut_display(bin_seq)
     display_seq = cut_display(dna_seq)
     
-    print(display_seq, display_comp, display_binseq)
-
     label_decompression1.configure( text =" UTF-8 sequence \n" + display_comp +"\n" + 
     								"\n"+"Binary sequence "+"\n"+ display_binseq +"\n" + "\n" + 
                                         "Decompressed sequence "+"\n"+ display_seq )
@@ -119,7 +117,7 @@ def decompression_bwtinversion():
     comp_seq = cut_display(comp_seq)
     dna_seq = cut_display(dna_seq)
     inverse_bwt = cut_display(inverse_bwt)
-    #print(inverse_bwt)
+
     label_decompression2.configure(text =" UTF-8 sequence \n" + comp_seq +"\n" + "\n" 
                                 "Decompressed BWT sequence  "+"\n"+ dna_seq +"\n" + "\n"+ 
                                     "Original sequence "+"\n"+ inverse_bwt)
