@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Wed Feb 17 09:42:20 2021
-
-@author: fabre
+This script contains functions related to the interface
 """
 from tkinter import Tk,Label, Button
 from burrows_wheeler_transform import * 
