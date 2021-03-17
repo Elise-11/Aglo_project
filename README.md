@@ -32,14 +32,13 @@ sudo apt-get install python3-tk
 
 
 ### Launch the program
-* Download the folder Algo_project, move to the folder
-* To launch the program write the following command in your terminal.
+* clone the repository Algo_project, move to the folder Algo_project. 
+* To launch the program write the following command in your terminal :python3 main.py
 * To test the interface you can use the file present in the Algo_project folder named sequence_test.txt.
 
 ```{}
-git clone 
+git clone https://github.com/Elise-11/Aglo_project.git
 cd Algo_project
-
 python3 main.py 
 ```
 
