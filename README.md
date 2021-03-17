@@ -37,8 +37,8 @@ sudo apt-get install python3-tk
 * To test the interface you can use the file present in the Algo_project folder named sequence_test.txt.
 
 ```{}
-git clone https://github.com/Elise-11/Aglo_project.git
-cd Algo_project/Algo_project
+git clone https://github.com/Elise-11/Algo_project_final.git
+cd Algo_project_final/Algo_project
 python3 main.py 
 ```
 
