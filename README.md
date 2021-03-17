@@ -38,7 +38,7 @@ sudo apt-get install python3-tk
 
 ```{}
 git clone https://github.com/Elise-11/Aglo_project.git
-cd Algo_project
+cd Algo_project/Algo_project
 python3 main.py 
 ```
 
