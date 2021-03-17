@@ -1,7 +1,7 @@
----
-title: "Algorithmic project "
-output: html_document
----
+
+# Algorithmic project 
+
+
 
 ## Burrows-Wheeler tranform & Hufffman compression
 
