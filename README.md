@@ -23,7 +23,7 @@ sudo apt -y upgrade
 python3 -V
 ```
 
-* For the proper functioning of the GUI we need tkinter, the following command allows to install it
+* For the proper functioning of the GUI we need tkinter, the following command allows to install it.
 
 ```{}
 sudo apt-get install python3-tk
@@ -33,8 +33,8 @@ sudo apt-get install python3-tk
 
 ### Launch the program
 
-* To launch the program please write the following command in your terminal 
-* To test the interface you can use the file present in the project named sequence_test.txt
+* To launch the program please write the following command in your terminal.
+* To test the interface you can use the file present in the project named sequence_test.txt.
 
 ```{}
 python3 main.py 
@@ -46,7 +46,7 @@ python3 main.py
 
 #### Buttons 
 
-All buttons open a window to choose the file on which you want to perform the operation, display the results of the operation in the window and save the result of the operation in a new file
+All buttons open a window to choose the file on which you want to perform the operation, display the results of the operation in the window and save the result of the operation in a new file.
 
 #### file content 
 
@@ -78,4 +78,4 @@ Output file -> Original DNA sequence rebuilt
 
 * It would be interesting to improve the bwt transformation by changing the naive algorithm into an advanced algorithm to reduce the complexity of time. 
 
-* It would be interesting to improve the Huffman compression taking into account the BWT transformation to increase the compression 
+* It would be interesting to improve the Huffman compression taking into account the BWT transformation to increase the compression.
